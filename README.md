@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I’m Kashif Amjad, an experienced AI professional
 ---
 
 ## 📈 GitHub Stats
-![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif2885&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kashif2885&layout=compact&theme=radical)  
+![Kashif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kashif2885&show_icons=true&theme=radical)
 ---
 ## 🛠️ Professional Expertise  
 
